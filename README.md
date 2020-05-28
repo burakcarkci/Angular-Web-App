@@ -4,7 +4,7 @@
 ## Project View
 
 <div align="center">
-<img src="./src/assets/images/recipe-book.png" />
+<img src="./Angular-Web-App/src/assets/recipe-book.png" />
 </div>
 
 
